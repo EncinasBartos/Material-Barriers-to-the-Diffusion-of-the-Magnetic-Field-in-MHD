@@ -1,4 +1,4 @@
 # Material-Barriers-to-the-Diffusion-of-the-Magnetic-Field-in-MHD
-Datasets and codes for the paper "Material Barriers to the Diffusion of the Magnetic Field".
+Datasets and codes for the paper "Material barriers to the diffusive magnetic flux in magnetohydrodynamics".
 
-Codes will be public as soon as the paper is published. If you are interested in the codes before, then please send an email to enalex(at)ethz.ch
+The data can be found at "https://polybox.ethz.ch/index.php/f/3790139437"
